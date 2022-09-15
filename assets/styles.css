@@ -1,0 +1,13 @@
+body {
+  background-color: #069a8e;
+  font-family: "Quicksand", "Times New Roman";
+}
+
+.tengah {
+  display: block;
+  margin: auto;
+}
+
+table {
+  text-align: left;
+}
