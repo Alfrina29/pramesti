@@ -1,0 +1,27 @@
+body {
+  font-family: "Times New Roman";
+}
+.nav-usd {
+  margin: 0 !important;
+  max-width: -webkit-fill-available !important;
+  margin-right: 9rem !important;
+}
+
+.navbar {
+  background-color: #90c8ac;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #c4dfaa;
+}
+
+#hobi {
+  background-color: #c4dfaa;
+}
+
+footer {
+  background-color: #a1e3d8;
+  padding: 10px;
+  text-align: center;
+}

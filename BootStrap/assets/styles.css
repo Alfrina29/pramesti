@@ -1,0 +1,31 @@
+body {
+  background-color: #069a8e;
+  font-family: "Quicksand", "Times New Roman";
+}
+
+.tengah {
+  display: block;
+  margin: auto;
+}
+
+.atas {
+  background-color: #005555;
+  padding: 5px;
+  text-align: center;
+}
+
+.judul {
+  background-color: #005555;
+  padding: 5px;
+  text-align: center;
+}
+
+table {
+  text-align: left;
+}
+
+footer {
+  background-color: #a1e3d8;
+  padding: 10px;
+  text-align: center;
+}
